@@ -1,4 +1,3 @@
-#Linearregression #machine learning #python #car price prediction
 Car Price Prediction using Linear Regression
 This project demonstrates the use of linear regression to predict car prices based on various features.
 By building a linear regression model, we aim to create a tool that can estimate the price of a car given its attributes drivewheel,carlength,carwidth,carheight,curbweight,horsepower.
@@ -24,4 +23,4 @@ This project is licensed under the MIT License.
 
 Feel free to modify this content to match your project's specifics, such as folder structure, data sources, and any additional information you want to provide to users.
 Including details about installation, usage, results, and contributing will make your repository more user-friendly and accessible to potential collaborators.
-# Linear-Regression
+# Linear-Regression #Linearregression #machine learning #python #car price prediction
