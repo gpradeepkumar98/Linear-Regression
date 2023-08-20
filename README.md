@@ -10,7 +10,7 @@ In this project, we utilize linear regression, a simple yet effective machine le
 Data
 
 
-    Run the car_price_prediction.ipynb Jupyter Notebook to see the data preprocessing, model training, and prediction steps.
+    Run the  Linear_Regression_Car_Price_Prediction.ipynb Jupyter Notebook to see the data preprocessing, model training, and prediction steps.
 
 Results
 
